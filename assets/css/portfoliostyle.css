@@ -1,0 +1,39 @@
+body {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif , Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: #cccccc;
+    font-size: 1.2rem
+  }
+  
+  
+    .card-title {
+      margin-bottom: 1.5rem;
+      font-size: 2.3rem;
+      color:#17a2b8;
+    }
+  
+  
+    .container {
+      border-radius: 0px;
+      background-color: #27191359;
+      padding: 0px;
+      margin-top: 2.5rem;
+      margin-left: 0.75rem;
+      float: left;
+      max-width: 90%;
+      
+    }
+  
+    .col-sm-6{
+        margin-bottom: 2rem;
+    }
+  
+  
+    footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color:#17a2b8;
+      color: white;
+      text-align: center;
+      }
