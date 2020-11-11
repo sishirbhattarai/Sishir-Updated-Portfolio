@@ -56,7 +56,7 @@ form {
 }
 
 a {
-  font-size: 1.19rem;
+  font-size: 1.4rem;
 }
 
 footer {
@@ -71,6 +71,10 @@ footer {
 
 p{
   font-size: 1.5rem;
-  font-family: cursive;
+  
+}
+
+.navbar-dark .navbar-brand {
+  font-size: 1.5rem;
 }
 
