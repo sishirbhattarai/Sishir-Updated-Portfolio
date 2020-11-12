@@ -1,5 +1,29 @@
 
-My site is ready to be published at https://sishirbhattarai.github.io/Sishir-Updated-Portfolio/.
+# Live deployed site: 
+
+https://sishirbhattarai.github.io/Sishir-Updated-Portfolio/.
+
+# Technology Used: 
+
+HTML, CSS, Bootsrap
+
+# This is my professional porfolio
+
+# My portfolio:
+
+![](./assets/images/profile.JPG)
+
+# My contacts:
+
+![](./assets/images/contact.JPG)
+
+# My resume:
+
+![](./assets/images/resume1.JPG)
+
+# My mobile version:
+
+![](./assets/images/mobile.JPG)
 
 # Unit 08 Project 1 Homework: Professional Materials
 
