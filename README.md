@@ -1,31 +1,31 @@
 
-# Live deployed site: 
+## Live deployed site: 
 
 https://sishirbhattarai.github.io/Sishir-Updated-Portfolio/.
 
-# Technology Used: 
+## Technology Used: 
 
 HTML, CSS, Bootsrap
 
-# This is my professional porfolio
+## This is my professional porfolio
 
-# My portfolio:
+## My portfolio:
 
 ![](./assets/images/profile.JPG)
 
-# My contacts:
+## My contacts:
 
 ![](./assets/images/contact.JPG)
 
-# My resume:
+## My resume:
 
 ![](./assets/images/resume1.JPG)
 
-# My mobile version:
+## My mobile version:
 
 ![](./assets/images/mobile.JPG)
 
-# Unit 08 Project 1 Homework: Professional Materials
+## Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
